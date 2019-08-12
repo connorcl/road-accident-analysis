@@ -1,1 +1,1 @@
-A Shiny web app which uses Dundee City Council open data to enable an exploratory analysis of road traffic accident records
+A Shiny web app which uses Dundee City Council open data to enable an exploratory analysis of road traffic accident records. Written during the Data Hack event hosted by Abertay University, Dundee City Council and Wittin as part of DataFest 2019
