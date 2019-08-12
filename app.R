@@ -2,6 +2,7 @@ library(shiny)
 library(leaflet)
 library(dplyr)
 library(lubridate)
+library(ggplot2)
 
 filename_05_14 <- "road_accidents_2016.csv"
 filename_16 <- "road_accidents_2005-14.csv"
